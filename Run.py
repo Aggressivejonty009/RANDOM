@@ -1,1 +1,1 @@
-import RNDM
+import RNDM()
