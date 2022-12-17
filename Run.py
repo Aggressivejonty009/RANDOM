@@ -18,6 +18,6 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from RNDM import login
+        from RNDM import menu
 
-        login()
+        menu()
